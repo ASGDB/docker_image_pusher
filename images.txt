@@ -9,3 +9,4 @@ xiaoyaliu/alist
 pixman/pixman
 lozyme/sockd
 laoyutang/clash-and-dashboard
+youshandefeiyang/allinone
