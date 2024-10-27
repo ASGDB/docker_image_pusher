@@ -9,5 +9,4 @@ xiaoyaliu/alist
 pixman/pixman
 lozyme/sockd
 laoyutang/clash-and-dashboard
-youshandefeiyang/av3a-assistant
 youshandefeiyang/allinone
