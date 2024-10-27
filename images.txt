@@ -10,4 +10,4 @@ pixman/pixman
 lozyme/sockd
 laoyutang/clash-and-dashboard
 youshandefeiyang/allinone
-youshandefeiyang/av3a-assistant
+youshandefeiyang/av3a-assistant:amd64
