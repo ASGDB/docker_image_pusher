@@ -11,3 +11,4 @@ lozyme/sockd
 laoyutang/clash-and-dashboard
 youshandefeiyang/allinone
 youshandefeiyang/av3a-assistant:amd64
+youshandefeiyang/php-env:amd64
