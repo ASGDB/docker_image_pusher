@@ -14,3 +14,4 @@ youshandefeiyang/av3a-assistant:amd64
 youshandefeiyang/php-env
 deluan/navidrome
 yuexuangu/allinone_format
+guovern/tv-driver
