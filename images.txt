@@ -17,3 +17,4 @@ yuexuangu/allinone_format
 guovern/tv-driver
 zmisgod/iptvchecker
 amilys/embyserver
+jacksaoding/xiaoya-sync
