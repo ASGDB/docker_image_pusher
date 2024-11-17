@@ -18,3 +18,4 @@ guovern/tv-driver
 zmisgod/iptvchecker
 amilys/embyserver
 jacksaoding/xiaoya-sync
+johngong/calibre-web
