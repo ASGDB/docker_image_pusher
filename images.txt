@@ -18,3 +18,4 @@ amilys/embyserver
 jacksaoding/xiaoya-sync
 johngong/calibre-web
 doubebly/doube-ofiii
+metacubex/mihomo
