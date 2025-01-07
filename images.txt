@@ -17,4 +17,4 @@ zmisgod/iptvchecker
 amilys/embyserver
 jacksaoding/xiaoya-sync
 johngong/calibre-web
-doubebly/doube-itv
+doubebly/doube-ofiii
